@@ -28,7 +28,7 @@
     },
     {
      "key": "Access-Control-Allow-Origin",
-     "value": "https://truthlens.vercel.app"
+     "value": "https://truthlens-vert-six.vercel.app"
     },
     {
      "key": "Content-Security-Policy",
